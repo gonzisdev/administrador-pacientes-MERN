@@ -1,0 +1,5 @@
+# Ignorar el archivo .env
+.env
+
+# No ignorar el archivo env.example
+!env.example
